@@ -6,7 +6,7 @@
 3-Eslam Wael Mohamed (section1)
 4-Mohamed Mansour Abo Bakr (Section3)
 
-We Worked on it in college, we all live around it , then we committed it at the end
+#Note: We Finished Working on it then we committed it 
 
 #Executing:
 Extract barkat_test.rar then start the solution file
