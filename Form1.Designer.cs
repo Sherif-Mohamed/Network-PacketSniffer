@@ -151,7 +151,6 @@
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.DataGridView dataGridView1;
-        private System.Windows.Forms.DataGridViewTextBoxColumn No;
         private System.Windows.Forms.DataGridViewTextBoxColumn Time_;
         private System.Windows.Forms.DataGridViewTextBoxColumn Source_;
         private System.Windows.Forms.DataGridViewTextBoxColumn Destination_;
